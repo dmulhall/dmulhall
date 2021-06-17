@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, Databases and Cloud computing
 - 📫 How to reach me mdavidm93@hotmail.com
 - :information_source: Here are a few Repo's that show case my work
-  - College Assignment: Didnt projects and assignemnet I completeing in my Masters in AI from University of Limerick: https://github.com/dmulhall/College_Assignments/blob/main/Time_Series_Deep_Learning/Etivity2_12128856.ipynb
+  - College Assignment: Showing projects and assignemnet I completeing in my Masters in AI from University of Limerick: https://github.com/dmulhall/College_Assignments/blob/main/Time_Series_Deep_Learning/Etivity2_12128856.ipynb
   - 
 
 <!---
